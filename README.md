@@ -10,6 +10,9 @@ A KiCad plugin that converts schematics into AI-trainable structured design pack
 
 </div>
 
+> ⚡ **Quick Start** → see [QUICKSTART.md](QUICKSTART.md)  
+> 📘 **Full documentation below**
+
 ---
 
 ## What Is This?
@@ -178,7 +181,7 @@ Part of a high school research project exploring:
 
 **Development:** Codex (AI implementation system) handled plugin implementation, net resolution, block inference, and debugging.
 
-**Design & Direction:** I myself provided electronics domain expertise, project vision, schematic testing, and guided debugging through multiple iterations.
+**Design & Direction:** Adnan provided electronics domain expertise, project vision, schematic testing, and guided debugging through multiple iterations.
 
 <div align="center">
 
